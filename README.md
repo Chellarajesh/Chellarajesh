@@ -113,7 +113,4 @@ I’m **Rajeshkumar MM**, a Full Stack Developer based in Thuraiyur, Tamilnadu, 
 
 ---
 
-
-[!](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
