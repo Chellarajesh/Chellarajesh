@@ -1,29 +1,47 @@
 # 💫 About Me
 
-I’m **Rajeshkumar MM**, a Full Stack Developer based in Thuraiyur, Tamilnadu, India. I specialize in building scalable applications using Java, Spring Boot, Angular, and microservices architecture. With experience in CRM development, workforce planning, and process optimization, I’m passionate about leveraging technology to solve real-world problems.
+Results-oriented Full Stack Developer with over 2 years of experience in designing and deploying scalable
+enterprise applications using Java 17 and Spring Boot 3.x. Expert in building microservices architectures
+and modern frontend interfaces with Angular 20. Leveraged a strong professional foundation from 2 years HCL
+Technologies in workforce optimization and CRM lifecycle management to build data-driven, operationally
+efficient software solutions.
 
 - 📍 **Location**: Thuraiyur, Tamilnadu 621010, India  
 - 📧 **Email**: [rajeshchella2000@gmail.com](mailto:rajeshchella2000@gmail.com)  
 - 📞 **Phone**: [+91 6381064513](tel:+916381064513)  
-- 🔗 **LinkedIn**: [linkedin.com/in/rajeshkumar-mm-252808219](https://www.linkedin.com/in/rajeshkumar-mm-252808219)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeshkumar-mm-252808219](https://www.linkedin.com/in/rajeshkumar-mm-93b287393/)  
 
 ---
 
 ## 🛠 Experience
 
-### Full Stack Developer  
-**Techietact, Chennai, India**  
-*Apr 2023 – Present*  
-- Developed a CRM using Angular, Spring MVC, and Hibernate in a monolithic architecture.  
-- Implemented Spring Batch for scheduled notifications (e.g., product expiration, overdue invoices).  
-- Created dynamic JSP pages for Sales Orders, Quotes, and Invoices.  
-- Built DAO classes with Hibernate and validated inputs at the service layer.  
-- Deployed applications on Apache Tomcat, using Log4j for error logging.  
-- Refactored the CRM into a microservices architecture using Spring Boot.  
-- Integrated microservices for Sales Orders, Quotes, and Invoices with RESTful APIs.  
-- Implemented Spring Cloud for service discovery (Eureka) and centralized configuration.  
-- Utilized API Gateway for request routing and added resilience with Circuit Breakers (Resilience4j).  
-- Optimized MySQL database schema for high-volume transactions and data consistency.  
+**Softtwig**
+Full Stack Developer Chennai, India
+– Core developer on 4 enterprise products: MySaleza 3.0, Expert Health, SmartSchool, and NexusERP.
+– MySaleza 3.0 – Enterprise Sales & CRM (Angular, Microservices ):
+* Architected a microservices-based CRM using Spring Boot and Angular.
+* Implemented Lead, Account, Opportunity, and Inventory modules.
+* Integrated JWT authentication, RabbitMQ messaging, and email notifications.
+* Enabled PDF/Excel export and role-based access control.
+– Expert Health – Healthcare Platform (Angular , Spring Boot , MariaDB):
+* Built patient and doctor portals with booking workflows.
+* Integrated Stripe Payment Gateway and AWS SES emails.
+* Implemented JWT authentication and secure access.
+* Developed RESTful APIs and Swagger docs.
+– SmartSchool – School Management System (Angular, Spring Boot, Redis):
+* Developed student, teacher, and admin modules.
+* Implemented attendance, fees, timetable, and HR features.
+* Integrated Redis caching and WebSocket notifications.
+* Built responsive UI with Angular Material.
+– NexusERP – Telecom ERP System (Angular, Spring Boot):
+* Developing ERP with Inventory, Finance, and Project modules.
+* Implementing multi-tenant architecture.
+* Building secure REST APIs with JWT.
+* Adding bulk data import and file handling.
+– Engineered scalable microservices architectures using Spring Boot and Spring Cloud.
+– Integrated Redis caching, RabbitMQ messaging, and Stripe payment gateway.
+– Containerized services using Docker and implemented CI/CD pipelines.
+– Collaborated with product managers to deliver production-ready features.
 
 ### Process Associate  
 **HCL Technologies, Chennai, India**  
