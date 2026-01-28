@@ -15,34 +15,37 @@ efficient software solutions.
 
 ## 🛠 Experience
 
-**Softtwig**
-
+Softtwig Dec 2024 – Present
 Full Stack Developer Chennai, India
-– Core developer on 4 enterprise products: MySaleza 3.0, Expert Health, SmartSchool, and NexusERP.
-– MySaleza 3.0 – Enterprise Sales & CRM (Angular, Microservices ):
-* Architected a microservices-based CRM using Spring Boot and Angular.
-* Implemented Lead, Account, Opportunity, and Inventory modules.
-* Integrated JWT authentication, RabbitMQ messaging, and email notifications.
-* Enabled PDF/Excel export and role-based access control.
-– Expert Health – Healthcare Platform (Angular , Spring Boot , MariaDB):
-* Built patient and doctor portals with booking workflows.
-* Integrated Stripe Payment Gateway and AWS SES emails.
-* Implemented JWT authentication and secure access.
-* Developed RESTful APIs and Swagger docs.
+– Core developer on 3 enterprise products: Expert Health, SmartSchool, and NexusERP.
+– Expert Health – Healthcare Platform (Angular, Spring Boot, MariaDB):
+∗ Built patient and doctor portals with booking workflows.
+∗ Integrated Stripe Payment Gateway and AWS SES emails.
+∗ Implemented JWT authentication and secure access.
+∗ Developed RESTful APIs and Swagger docs.
 – SmartSchool – School Management System (Angular, Spring Boot, Redis):
-* Developed student, teacher, and admin modules.
-* Implemented attendance, fees, timetable, and HR features.
-* Integrated Redis caching and WebSocket notifications.
-* Built responsive UI with Angular Material.
+∗ Developed student, teacher, and admin modules.
+∗ Implemented attendance, fees, timetable, and HR features.
+∗ Integrated Redis caching and WebSocket notifications.
+∗ Built responsive UI with Angular Material.
 – NexusERP – Telecom ERP System (Angular, Spring Boot):
-* Developing ERP with Inventory, Finance, and Project modules.
-* Implementing multi-tenant architecture.
-* Building secure REST APIs with JWT.
-* Adding bulk data import and file handling.
+∗ Developing ERP with Company,Customer,Employees and Projects modules.
+∗ Implementing multi-tenant architecture.
+∗ Building secure REST APIs with JWT.
+∗ Adding bulk data import and file handling.
 – Engineered scalable microservices architectures using Spring Boot and Spring Cloud.
 – Integrated Redis caching, RabbitMQ messaging, and Stripe payment gateway.
 – Containerized services using Docker and implemented CI/CD pipelines.
 – Collaborated with product managers to deliver production-ready features.
+
+Techietact Apr 2024 – Nov 2024
+Full Stack Developer (Internship) Chennai, India
+– MySaleza – Enterprise Sales & CRM (Angular, Microservices):
+∗ Architected a microservices-based CRM using Spring Boot and Angular.
+∗ Implemented Lead, Account, Opportunity, and Inventory modules.
+∗ Integrated JWT authentication, RabbitMQ messaging, and email notifications.
+∗ Enabled PDF/Excel export and role-based access control.
+
 
 ### Process Associate  
 **HCL Technologies, Chennai, India**  
