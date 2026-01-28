@@ -15,8 +15,8 @@ efficient software solutions.
 
 ## 🛠 Experience
 
-Softtwig Dec 2024 – Present
-Full Stack Developer Chennai, India
+**Softtwig Dec 2024 – Present**
+**Full Stack Developer Chennai, India**
 – Core developer on 3 enterprise products: Expert Health, SmartSchool, and NexusERP.
 – Expert Health – Healthcare Platform (Angular, Spring Boot, MariaDB):
 ∗ Built patient and doctor portals with booking workflows.
@@ -38,8 +38,8 @@ Full Stack Developer Chennai, India
 – Containerized services using Docker and implemented CI/CD pipelines.
 – Collaborated with product managers to deliver production-ready features.
 
-Techietact Apr 2024 – Nov 2024
-Full Stack Developer (Internship) Chennai, India
+**Techietact Apr 2024 – Nov 2024**
+**Full Stack Developer (Internship) Chennai, India**
 – MySaleza – Enterprise Sales & CRM (Angular, Microservices):
 ∗ Architected a microservices-based CRM using Spring Boot and Angular.
 ∗ Implemented Lead, Account, Opportunity, and Inventory modules.
